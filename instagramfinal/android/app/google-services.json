@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "2232101746",
+    "project_id": "finalinstantgram",
+    "storage_bucket": "finalinstantgram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2232101746:android:906dd243fc327dd9204beb",
+        "android_client_info": {
+          "package_name": "com.example.instagramfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2232101746-8e6cto284u0m72h26shhisra1u1fs33h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTCz8equ32-zXjzByFglNl_ij-3fi-AvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2232101746-8e6cto284u0m72h26shhisra1u1fs33h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "2232101746-l0m15318vsouts6c9qvb2khsomt5kq2q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instagramfinal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
