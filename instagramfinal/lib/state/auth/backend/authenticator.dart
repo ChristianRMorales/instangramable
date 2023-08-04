@@ -4,7 +4,6 @@ import 'package:google_sign_in/google_sign_in.dart';
 import '../../posts/typedefs/user_id.dart';
 import '../Models/auth_result.dart';
 import '../../auth/constants/constants.dart';
-import 'package:instagramfinal/main.dart';
 
 class Authenticator {
   const Authenticator();
